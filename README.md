@@ -97,8 +97,6 @@ As imagens de `docs/designs-aprovados` são as referências visuais aprovadas e 
 
 **Link do vídeo (YouTube, não listado):** _[https://youtu.be/n9vDEEUXb7o?is=EcYI2yHvfLEaeVJg]_
 
-> O vídeo deve ter até 3 minutos e mostrar a jornada completa do jovem, incluindo o salvamento e a recuperação dos dados.
-
 ## Origem dos dados
 
 A modelagem foi adaptada das seções **7.1, 7.2, 7.3 e Figura 4** da documentação funcional e técnica original do TRAJEtória, de 09/11/2026. As tabelas `usuarios`, `ongs`, `jovens`, `pecas`, `pedido_itens`, `pedidos` e `feedbacks` refletem o domínio; estruturas auxiliares registram fotos, seleção temporária, consentimento, histórico e avaliações por peça.
