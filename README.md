@@ -95,7 +95,7 @@ As imagens de `docs/designs-aprovados` são as referências visuais aprovadas e 
 
 ## Vídeo de demonstração
 
-**Link do vídeo (YouTube, não listado):** _[SUBSTITUIR PELO LINK DO VÍDEO]_
+**Link do vídeo (YouTube, não listado):** _[https://youtu.be/n9vDEEUXb7o?is=EcYI2yHvfLEaeVJg]_
 
 > O vídeo deve ter até 3 minutos e mostrar a jornada completa do jovem, incluindo o salvamento e a recuperação dos dados.
 
